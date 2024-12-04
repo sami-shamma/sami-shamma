@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Access Development for my customers
 - 📫 How to reach me Sami@ShammaConsultancy.com
 - 😄 Pronouns: He, him
-- ⚡ Fun fact: Lived in 10 contries, abd visited 100 exactly.
+- ⚡ Fun fact: Lived in 10 contries, and visited 100 exactly.
 
 <!---
 sami-shamma/sami-shamma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
